@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+    "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+    "publishedAt": "2020-04-27T11:41:47Z",
+    "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+    "source": {
+        "id": "independent",
+        "name": "Independent"
+        },
+        "author": "Jacob Stolworthy",
+        "title": "Sinead O’Connor: Police issue statement after Irish singer’s death",
+        "description": "Musician’s family was alerted after she was found ‘unresponsive’",
+        "url": "http://www.independent.co.uk/arts-entertainment/music/news/sinead-oconnor-death-police-cause-latest-b2382874.html",
+        "urlToImage": "https://static.independent.co.uk/2023/07/27/11/newFile-3.jpg?quality=75&width=1200&auto=webp",
+        "publishedAt": "2023-07-27T10:37:46Z",
+        "content": "Sign up to Roisin OConnors free weekly newsletter Now Hear This for the inside track on all things music\r\nGet our Now Hear This email for free\r\nPolice have issued a statement on the death of Sinead O… [+1779 chars]"
+        },
+        {
+        "source": {
+        "id": "the-huffington-post",
+        "name": "The Huffington Post"
+        },
+        "author": "Stephen A. Crockett Jr.",
+        "title": "Cornel West Is So Vain That He Thinks The 2024 Election Is About Him",
+        "description": "The Princeton professor is running for the presidency of the United States of America as a Green Party candidate, and this is nothing but a futile vanity project.",
+        "url": "https://www.huffpost.com/entry/cornel-west-is-so-vain-that-he-thinks-the-2024-election-is-about-him_n_64c18144e4b08a8c9212a63a",
+        "urlToImage": "https://img.huffingtonpost.com/asset/64c182001e00002d000116e5.jpeg?cache=iEl1a4FxRd&ops=1200_630",
+        "publishedAt": "2023-07-27T09:45:02Z",
+        "content": "Cornel West might be a wizard. To hear him speak is to watch an African griot weave spells with language, pulling from the sorrow of the trans-Atlantic slave trade to the ingenuity of the Gullah peop… [+9932 chars]"
+        },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+    "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+    "publishedAt": "2020-03-30T15:26:05Z",
+    "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+    ]
+    }
